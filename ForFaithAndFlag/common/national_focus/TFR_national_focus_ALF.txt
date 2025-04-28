@@ -1,0 +1,21 @@
+focus_tree = {
+id = ALF_Focus
+
+country = {
+base = 0
+modifier = {
+add = 10
+tag = ALF
+}
+}
+focus = {
+	id = ALF_focus_1
+	icon = GFX_focus_ALF_1776_all_over_again
+	x = 0
+	y = 1
+	cost = 3
+	completion_reward = {
+		add_political_power = 200
+	}
+}
+}

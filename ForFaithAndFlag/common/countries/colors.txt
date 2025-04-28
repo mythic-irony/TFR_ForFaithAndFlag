@@ -3,6 +3,14 @@ ALF = {
 	color = rgb { 34 43 138 }
 	color_ui = rgb { 34 43 138 }
 }
+DPF ={
+	color = rgb {196 8 105}
+	color_ui = rgb {196 8 105}
+}
+ALM = {
+	color = rgb { 86 96 196}
+	color_ui = rgb {86 96 196}
+}
 GER = {
 	color = rgb { 82 117 127 }
 	color_ui = rgb { 82 117 127 }

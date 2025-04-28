@@ -111,17 +111,17 @@
 		lower_trade
 		medium_taxes
 		high_interest_rates
-		lower_welfare
-		lower_safety
+		low_welfare
+		medium_safety
 		lower_conscription
 		low_female_service
 		lower_supervision
 		medium_training
-		low_racial_integration
+		medium_racial_integration
 		no_draft_exemptions
 		lower_immigration
-		low_education
-		low_race
+		medium_education
+		medium_race
 		lower_female
 		low_prison
 		high_police
@@ -130,7 +130,7 @@
 		low_poverty
 		high_industry
 		medium_military
-		low_society
+		medium_society
 		low_interest_rates
 	}
 

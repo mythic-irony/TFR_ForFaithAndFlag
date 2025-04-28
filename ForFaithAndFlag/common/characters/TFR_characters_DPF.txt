@@ -1,0 +1,20 @@
+	characters={
+		ALF_ULysses_char = {
+			portraits={
+				civilian={
+					large = "gfx/Leaders/DPF/Julia_Salazar.png"
+				}
+			}
+			country_leader={
+				desc= ""
+				ideology=neo_socialism_socdem
+				id=-1
+			}
+			country_leader = {
+				ideology = neo_socialism_socdem
+				traits = {
+					
+				}
+			}
+		}
+	}

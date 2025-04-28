@@ -7,8 +7,8 @@ tags={
 }
 name="The Fire Rises: For Faith and Flag"
 picture="FFAF_Icon.png"
-supported_version="1.16.4"
-dependencies= {
+dependencies={
 	"The Fire Rises"
 }
+supported_version="1.16.4"
 remote_file_id="3469968613"

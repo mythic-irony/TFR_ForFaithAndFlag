@@ -1,11 +1,11 @@
 sprite_Types = {
 
 SpriteType = {
-	name = "GFX_focus_1776_all_over_again_shine"
-	texturefile = "gfx\interface\goals\1776_all_over_again.tga"
+	name = "GFX_focus_ALF_1776_all_over_again_shine"
+	texturefile = "gfx\interface\goals\ALF_1776_all_over_again.png"
 	effectFile = "gfx/FX/buttonstate.lua"
 	animation = {
-		animationmaskfile = "gfx\interface\goals\1776_all_over_again.tga"
+		animationmaskfile = "gfx\interface\goals\ALF_1776_all_over_again.png"
 		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 		animationrotation = -90.0
 		animationlooping = no
@@ -18,7 +18,7 @@ SpriteType = {
 	}
 
 	animation = {
-		animationmaskfile = "gfx\interface\goals\1776_all_over_again.tga"
+		animationmaskfile = "gfx\interface\goals\ALF_1776_all_over_again.png"
 		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 		animationrotation = 90.0
 		animationlooping = no

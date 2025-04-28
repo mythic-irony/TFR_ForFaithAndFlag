@@ -1,0 +1,7 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_focus_ALF_1776_all_over_again"
+		texturefile = "gfx/interface/goals/ALF_1776_all_over_again.png"
+	}
+}
+	

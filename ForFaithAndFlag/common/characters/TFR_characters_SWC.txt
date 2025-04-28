@@ -1,5 +1,5 @@
 	characters={
-		DPF_character_Julia_Salazar_char = {
+		ALF_ULysses_char = {
 			portraits={
 				civilian={
 					large = "gfx/Leaders/DPF/Julia_Salazar.png"

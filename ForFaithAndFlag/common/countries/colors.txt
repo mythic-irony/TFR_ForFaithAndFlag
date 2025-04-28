@@ -11,6 +11,10 @@ ALM = {
 	color = rgb { 86 96 196}
 	color_ui = rgb {86 96 196}
 }
+SWC = {
+	color = rgb { 252 186 3}
+	color_ui = rgb { 252 186 3}
+}
 GER = {
 	color = rgb { 82 117 127 }
 	color_ui = rgb { 82 117 127 }

@@ -2,6 +2,7 @@ PLD = "countries/Not Poland.txt" #due to random crashes related to the POL tag, 
 HRL = "countries/House of Representatives Libya.txt"
 ALF = "countries/American Liberation Front.txt"
 DPF = "countries/Democratic People's Front"
+SWC = "countries/Southwestern Command Center"
 SHB = "countries/Al-Shabaab.txt"
 TAL = "countries/Taliban.txt"
 AAS = "countries/Ansar al-Sharia.txt"
